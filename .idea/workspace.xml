@@ -4,8 +4,9 @@
     <list default="true" id="f8a85917-33af-4c8b-a667-e2922c0dc3b6" name="Default Changelist" comment="Added gitignore file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiniProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pcss2019-301/MiniProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pcss2019-301/MiniProject.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="80" />
-    <option name="width" value="1205" />
-    <option name="height" value="985" />
-  </component>
+  <component name="ProjectId" id="1Qjw75gxlCYhKYOAKElVQZsHJTD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -66,6 +63,13 @@
       <option name="project" value="LOCAL" />
       <updated>1568291739927</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a85917-33af-4c8b-a667-e2922c0dc3b6" name="Default Changelist" comment="Added gitignore file" />
+      <created>1568297143086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568297143086</updated>
+    </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -74,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
