@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8a85917-33af-4c8b-a667-e2922c0dc3b6" name="Default Changelist" comment="">
+    <list default="true" id="f8a85917-33af-4c8b-a667-e2922c0dc3b6" name="Default Changelist" comment="Added gitignore file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MiniProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
